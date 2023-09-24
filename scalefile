@@ -1,0 +1,13 @@
+version: v1alpha
+name: nextjs
+tag: latest
+signature: http@v0.3.8
+language: go
+dependencies:
+  - name: github.com/loopholelabs/scale-signature
+    version: v0.2.11
+  - name: github.com/loopholelabs/scale-signature-http
+    version: v0.3.8
+  - name: github.com/gabriel-vasile/mimetype
+    version: v1.4.2
+source: scale.go

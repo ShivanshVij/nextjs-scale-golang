@@ -1,0 +1,7 @@
+.idea
+*.env
+.env
+certs/
+*.crt
+*.key
+node_modules/
